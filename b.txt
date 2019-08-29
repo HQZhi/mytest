@@ -1,2 +1,4 @@
-git remote add origin 
+git remote add origin git@github.com:HQZhi/test2.git
 git push -u origin master
+
+git remote rm origin
